@@ -4,5 +4,6 @@ langchain
 langchain_chroma
 langchain_openai
 langchain-community
+chromadb
 streamlit
 streamlit-option-menu
