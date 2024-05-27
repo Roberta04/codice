@@ -1,15 +1,9 @@
-python-dotenv
 PyPDF2
 langchain
 langchain_chroma
 langchain_openai
 langchain-community
 chromadb
-langchain
-openai
-chromadb
 langsmith
 streamlit
 streamlit-option-menu
-
-
