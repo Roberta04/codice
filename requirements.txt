@@ -1,10 +1,10 @@
-PyPDF2==3.0
-langchain==0.2.1
+PyPDF2
+langchain
 langchain-chroma
 langchain_openai
 langchain-community
-numpy==1.26.4 
-langsmith==0.1.63 
-streamlit==1.35.0
-streamlit-option-menu==0.3.12 
+numpy
+langsmith
+streamlit
+streamlit-option-menu
 
