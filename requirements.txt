@@ -1,6 +1,6 @@
 PyPDF2==3.0
 langchain==0.2.1
-langchain-chroma==0.2
+langchain-chroma
 langchain_openai==0.2
 langchain-community==0.2.1
 numpy==1.26.4 
