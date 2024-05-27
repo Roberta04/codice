@@ -3,5 +3,6 @@ PyPDF2
 langchain
 langchain_chroma
 langchain_openai
+langchain-community
 streamlit
 streamlit-option-menu
