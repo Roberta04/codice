@@ -1,0 +1,7 @@
+python-dotenv
+PyPDF2
+langchain
+langchain_chroma
+langchain_openai
+streamlit
+streamlit-option-menu
