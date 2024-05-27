@@ -5,7 +5,9 @@ langchain_chroma
 langchain_openai
 langchain-community
 chromadb
-chroma-hnswlib
+langchain
+openai
+chromadb
 langsmith
 streamlit
 streamlit-option-menu
